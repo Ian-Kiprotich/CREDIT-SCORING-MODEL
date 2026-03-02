@@ -1,6 +1,4 @@
 
-
-
 MASTER OF SCIENCE IN INFORMATION TECHNOLOGY
 
 
@@ -38,7 +36,12 @@ To estimate the statistical probability that a borrower may fail to meet their d
 To provide financial institutions with an objective basis for loan approval, rejection, or pricing based on risk exposure.
 4. Standardize Credit Evaluation
 To replace subjective manual assessments with consistent, data-driven credit risk evaluation across all customers.
+
+
 DATA ACQUISITION
+
+
+
 This data has been sourced from Kaggle and has a total of 28 features.
 The table below shows the dataset.
 
