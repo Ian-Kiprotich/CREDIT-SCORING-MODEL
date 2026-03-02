@@ -22,7 +22,11 @@ Link  to the Document 🔗 : https://docs.google.com/document/d/1DypZrtZ-Xm_MAZo
 
 
 
+
+
 PROBLEM DEFINITION & OBJECTIVE
+
+
 Over the years a local commercial bank has collected basic bank details and gathered a lot of credit-related information. The management wants to build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts.
 The main objective is to build a machine learning model that can classify the credit score.
 Objectives of a Credit Scoring Model
